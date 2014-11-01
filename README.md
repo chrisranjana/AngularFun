@@ -240,6 +240,8 @@ Here are the final index.html script references.  Note that the condition will n
 ### Take 4
 Inspired by [tardyp](https://github.com/tardyp) and his [grunt-requiregen](https://github.com/tardyp/grunt-requiregen) plugin - what if we didn't have to do anything?
 
+Angularjs developer (https://www.chrisranjana.com/angularjs-developers.html)
+
 So that's actually where we are.  The shim file from [Take 3](#take-3) is built for you.
 
 Whew!
